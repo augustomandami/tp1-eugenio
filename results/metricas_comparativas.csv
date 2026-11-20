@@ -1,0 +1,4 @@
+Metodo;Total_Palavras;Palavras_Substituidas;Taxa_Cobertura_Pct;Caracteres_Original;Caracteres_Abreviado;Poupanca_Pct
+Contração;362;125;34,53;2383;2064;13,39
+Truncagem;362;60;16,57;2383;2198;7,76
+Método 3 (MCSF);362;87;24,03;2383;1987;16,62

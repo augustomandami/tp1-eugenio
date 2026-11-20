@@ -1,0 +1,121 @@
+Por favor podes ligar a televisão no canal de notícias?
+O comando shuf ou split permite baralhar e dividir conjuntos de dados de forma aleatória.
+Olá bom dia a todos.
+Esperamos que este estudo de abreviaturas forneça pistas valiosas para a evolução da plataforma.
+A defesa oral vale cinquenta por cento da nota final e representa a componente mais pesada da avaliação.
+Escrever com recurso a abreviaturas torna o processo muito mais ágil e menos cansativo.
+Podes pôr uma manta quente nas minhas pernas?
+O desenvolvimento deste projeto contribui para a acessibilidade digital e inclusão social.
+Gosto de comer pipocas doces enquanto vejo o filme no grande ecrã.
+Tudo pronto para começar a escrever o primeiro script de divisão de dados de treino e teste.
+Muito obrigado pela tua ajuda e paciência.
+Vamos comparar a técnica da contração com a técnica da truncagem e um método inovador.
+Contudo o utilizador deve manter sempre o controlo final sobre a mensagem transmitida.
+A comunicação é um direito fundamental de todas as pessoas.
+A desambiguação contextual é um dos desafios mais interessantes nos sistemas modernos.
+Palavras de alta frequência como artigos e preposições surgem repetidamente nos textos.
+Os transportes públicos devem ter rampas funcionais e avisos sonoros e visuais.
+Podes chegar o livro mais para perto de mim?
+Vamos agora preparar cada um dos scripts e testar exaustivamente com os dados do corpus.
+A frequência de ocorrência reflete a probabilidade de uma palavra ser necessária numa conversa.
+Amanhã vou começar o dia a ler as notícias no jornal digital.
+É muito importante compreender o funcionamento de cada instrução e script desenvolvido.
+Se eu escrever apenas as consoantes o sistema deve sugerir a palavra correta de imediato.
+Por isso o algoritmo deve evitar colisões entre palavras distintas no dicionário.
+Quero beber um copo de água fresca.
+Com este computador consigo escrever mensagens e expressar as minhas ideias.
+Abreviações ambíguas podem gerar confusão e diminuir a velocidade de comunicação.
+Sinto uma dor de cabeça forte deste lado.
+A filosofia Unix assenta na composição de pequenas ferramentas especializadas ligadas por pipes.
+Gostava de comer uma fruta fresca como sobremesa talvez uma maçã ou uma banana.
+Nunca devemos esquecer de fazer cópias de segurança dos ficheiros importantes.
+Quero telefonar à minha mãe e falar com ela sobre o meu dia.
+Vou guardar este documento e fazer uma cópia de segurança no disco externo.
+Tenham todos uma excelente tarde e um bom descanso esta noite.
+Durante a apresentação oral devemos demonstrar segurança na explicação de cada script e comando.
+Tenho muita sede e quero beber água agora.
+O sistema Eugénio permite-me comunicar com a família e com os amigos.
+A truncagem utiliza apenas os primeiros caracteres da palavra original.
+A primeira coluna contém a abreviatura e a segunda coluna contém a palavra original por extenso.
+Gostava de ir passear ao jardim da cidade durante a tarde.
+A tecnologia de apoio faz uma grande diferença na vida diária.
+Cada função ou bloco de comandos deve ter uma explicação clara do seu propósito e funcionamento.
+A leitura estimula a imaginação e ajuda a desenvolver o vocabulário e a memória.
+Gostava de comer sopa de legumes e peixe grelhado.
+Podes verificar se o telemóvel tem rede e ligação à internet sem fios?
+Não consigo alcançar o livro que está na mesa da sala.
+A avaliação do trabalho inclui uma defesa oral onde temos de explicar todo o código.
+Como estás hoje?
+A reprodutibilidade científica é um princípio basilar no desenvolvimento de software e investigação.
+Os conceitos de processos fluxos de entrada e saída redirecionamento e pipes são centrais nesta disciplina.
+Podemos selecionar as opções através do varrimento automático ou com manípulos.
+Com estas ferramentas conseguimos filtrar dividir e transformar grandes volumes de informação.
+Se duas palavras tiverem a mesma forma abreviada ocorre uma colisão que deve ser resolvida.
+A paragem de autocarro fica mesmo em frente ao centro de saúde da freguesia.
+Assim qualquer colega ou docente que execute o script obterá exatamente a mesma divisão de treino e teste.
+Quero ver o programa sobre a natureza e os animais selvagens.
+Desta forma o estudante estará totalmente preparado para responder a qualquer pergunta do júri na defesa.
+O meu irmão vem visitar-me este fim de semana com os meus sobrinhos.
+Os nomes dos ficheiros de saída devem ser rigorosamente abreviaturas_contracao.txt abreviaturas_truncagem.txt e abreviaturas_metodo3.txt.
+Eu preciso de ajuda por favor.
+Uma poupança elevada significa maior eficiência e menor fadiga física para o utilizador.
+Contribuir para a melhoria de sistemas como o Eugénio dá um sentido prático e humano à engenharia informática.
+No entanto abreviar preposições curtas traz pouca poupança percentual em comparação com palavras longas.
+O terminal do Linux oferece ferramentas poderosas como sed awk tr sort e uniq.
+Podes chamar o médico ou o enfermeiro de serviço?
+O código deve ser limpo bem indentado e amplamente documentado com comentários elucidativos.
+Estou muito entusiasmado com a realização deste trabalho e com a oportunidade de aprender mais sobre Linux.
+A informática e a tecnologia ao serviço da inclusão social são áreas com enorme potencial de impacto positivo.
+O comando sed é perfeito para efetuar substituições e remoção de padrões com expressões regulares.
+Podes colocar a lista de reprodução com músicas calmas e relaxantes?
+Ela vai ficar muito contente por receber a minha mensagem de texto.
+O som ambiente está demasiado alto podes diminuir o volume das colunas?
+Seguir à risca as instruções do enunciado é determinante para obter uma boa classificação no projeto.
+O utilitário sort ordena linhas alfabeticamente ou numericamente com a opção n.
+Será que podes consultar os horários atualizados na aplicação do telemóvel?
+Quando escrevo menos letras fico menos cansado e comunico mais depressa.
+A enfermeira disse que a medicação chega daqui a pouco.
+A combinação de sort e uniq é clássica em ambiente Unix para calcular frequências de palavras.
+Agora estou mais confortável e sem frio.
+Muito obrigado pelo teu apoio carinho e dedicação de todos os dias.
+Apaga a luz do quarto antes de saíres por favor.
+Onde deixei o cabo de carregamento rápido e o transformador?
+Comprar bilhetes na internet é mais rápido e prático do que esperar na fila.
+Gosto de estar informado sobre os acontecimentos no país e no mundo inteiro.
+Tenho calor podes abrir um pouco a porta da varanda?
+Vou pedir-lhe para trazer o meu computador portátil e os auscultadores.
+Esta é uma reflexão crítica fundamental que devemos incluir na análise e discussão do relatório.
+Quero descansar um pouco e dormir uma sesta.
+Hoje sinto-me com mais energia e boa disposição.
+Os professores valorizam a capacidade de justificar escolhas algorítmicas com base em dados concretos.
+O processo de teste e validação garante que não existem falhas de sintaxe nem comportamentos imprevistos.
+Cada abreviatura corresponde univocamente a uma palavra do dicionário para evitar erros.
+Podes trazer-me um copo de sumo de laranja natural com gelo?
+O comando uniq com a opção c conta o número de repetições consecutivas de cada linha.
+O autocarro da linha três passa na paragem daqui a quinze minutos.
+A comida hoje estava muito saborosa especialmente o puré de batata.
+A sessão de fisioterapia ajuda a relaxar os músculos e a respirar melhor.
+Tenho fome e quero comer alguma coisa.
+Compreender a fundo a matéria de sistemas operativos dá-nos confiança para enfrentar qualquer questão técnica.
+A palavra comunicação tem onze letras e poupa muitos caracteres se for reduzida a três letras.
+O comando awk permite processar campos e colunas com grande eficiência e flexibilidade.
+As palavras mais frequentes na língua portuguesa devem ter abreviaturas mais curtas.
+A rampa de acesso à sala de cinema é bastante larga e segura para a cadeira de rodas.
+Além disso abreviar palavras curtas aumenta muito o risco de colisões no dicionário.
+Já a palavra de apenas tem duas letras e abreviar para d poupa apenas uma única letra.
+Eu estou bem obrigado.
+Vamos dar início à implementação passo a passo com rigor entusiasmo e espírito de equipa.
+Amanhã temos consulta de fisioterapia logo pela manhã.
+No sistema Eugénio cada palavra sugerida poupa dezenas de cliques ao longo do dia.
+Preciso de tomar os meus medicamentos da manhã.
+Todos os ficheiros gerados devem cumprir estritamente o formato de duas colunas com tabulação.
+A contração remove as vogais das palavras e mantém a estrutura consonântica.
+Estou com frio por favor fecha a janela do quarto.
+Estamos a utilizar comandos e utilitários do sistema operativo Linux para processar ficheiros.
+Onde está o comando da televisão?
+Todos os cidadãos devem ter acesso a ferramentas que facilitem a sua autonomia pessoal.
+O trabalho prático de sistemas operativos é sobre abreviaturas e processamento de texto.
+Cada ferramenta faz uma coisa bem feita e passa o resultado à ferramenta seguinte da cadeia de processamento.
+A música clássica ajuda-me a concentrar enquanto trabalho no relatório.
+A percentagem de poupança de esforço mede a redução no número de teclas premidas.
+Todos os dias dedico pelo menos meia hora à leitura de um bom romance.
