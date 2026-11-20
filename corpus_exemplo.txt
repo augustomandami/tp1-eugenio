@@ -1,0 +1,151 @@
+Olá bom dia a todos.
+Como estás hoje?
+Eu estou bem obrigado.
+Eu preciso de ajuda por favor.
+Quero beber um copo de água fresca.
+Tenho muita sede e quero beber água agora.
+Tenho fome e quero comer alguma coisa.
+A que horas é o almoço hoje?
+Gostava de comer sopa de legumes e peixe grelhado.
+Por favor podes ligar a televisão no canal de notícias?
+Quero ver o programa sobre a natureza e os animais selvagens.
+Onde está o comando da televisão?
+Não consigo alcançar o livro que está na mesa da sala.
+Podes chegar o livro mais para perto de mim?
+Muito obrigado pela tua ajuda e paciência.
+Estou com frio por favor fecha a janela do quarto.
+Podes pôr uma manta quente nas minhas pernas?
+Agora estou mais confortável e sem frio.
+Tenho calor podes abrir um pouco a porta da varanda?
+Preciso de tomar os meus medicamentos da manhã.
+Onde está a caixa dos comprimidos azuis?
+Sinto uma dor de cabeça forte deste lado.
+Podes chamar o médico ou o enfermeiro de serviço?
+A enfermeira disse que a medicação chega daqui a pouco.
+Quero descansar um pouco e dormir uma sesta.
+Apaga a luz do quarto antes de saíres por favor.
+Amanhã temos consulta de fisioterapia logo pela manhã.
+A sessão de fisioterapia ajuda a relaxar os músculos e a respirar melhor.
+O terapeuta é muito simpático e paciente comigo.
+Hoje sinto-me com mais energia e boa disposição.
+Gostava de ir passear ao jardim da cidade durante a tarde.
+O tempo está ensolarado com céu azul e sem vento.
+Vamos ver as flores coloridas e as árvores do parque.
+Adoro ouvir o canto dos pássaros junto ao lago.
+O sistema Eugénio permite-me comunicar com a família e com os amigos.
+A comunicação é um direito fundamental de todas as pessoas.
+Com este computador consigo escrever mensagens e expressar as minhas ideias.
+As abreviaturas ajudam a poupar esforço e tempo na escrita no ecrã.
+A escrita com poupança de caracteres é muito importante para nós.
+Quando escrevo menos letras fico menos cansado e comunico mais depressa.
+O teclado virtual do sistema tem várias configurações acessíveis.
+Podemos selecionar as opções através do varrimento automático ou com manípulos.
+A tecnologia de apoio faz uma grande diferença na vida diária.
+Quero telefonar à minha mãe e falar com ela sobre o meu dia.
+Ela vai ficar muito contente por receber a minha mensagem de texto.
+O meu irmão vem visitar-me este fim de semana com os meus sobrinhos.
+Eles gostam de brincar aos jogos de tabuleiro e de ver desenhos animados.
+Vou pedir-lhe para trazer o meu computador portátil e os auscultadores.
+Preciso de carregar a bateria do telemóvel porque está quase a acabar.
+Onde deixei o cabo de carregamento rápido e o transformador?
+Podes verificar se o telemóvel tem rede e ligação à internet sem fios?
+Quero enviar uma mensagem de correio eletrónico ao meu professor da universidade.
+O trabalho prático de sistemas operativos é sobre abreviaturas e processamento de texto.
+Estamos a utilizar comandos e utilitários do sistema operativo Linux para processar ficheiros.
+O terminal do Linux oferece ferramentas poderosas como sed awk tr sort e uniq.
+Com estas ferramentas conseguimos filtrar dividir e transformar grandes volumes de informação.
+A avaliação do trabalho inclui uma defesa oral onde temos de explicar todo o código.
+É muito importante compreender o funcionamento de cada instrução e script desenvolvido.
+O relatório técnico deve descrever com rigor a metodologia e os resultados obtidos.
+Vamos comparar a técnica da contração com a técnica da truncagem e um método inovador.
+A contração remove as vogais das palavras e mantém a estrutura consonântica.
+A truncagem utiliza apenas os primeiros caracteres da palavra original.
+O método livre pode combinar a frequência das palavras com a seleção de caracteres salientes.
+As palavras mais frequentes na língua portuguesa devem ter abreviaturas mais curtas.
+Abreviações ambíguas podem gerar confusão e diminuir a velocidade de comunicação.
+Por isso o algoritmo deve evitar colisões entre palavras distintas no dicionário.
+A percentagem de poupança de esforço mede a redução no número de teclas premidas.
+Uma poupança elevada significa maior eficiência e menor fadiga física para o utilizador.
+O desenvolvimento deste projeto contribui para a acessibilidade digital e inclusão social.
+Todos os cidadãos devem ter acesso a ferramentas que facilitem a sua autonomia pessoal.
+Hoje em dia os sistemas computacionais estão cada vez mais inteligentes e adaptáveis.
+A inteligência artificial apoia a criação de soluções inovadoras na área da saúde.
+Contudo o utilizador deve manter sempre o controlo final sobre a mensagem transmitida.
+Vou guardar este documento e fazer uma cópia de segurança no disco externo.
+Nunca devemos esquecer de fazer cópias de segurança dos ficheiros importantes.
+Podes trazer-me um copo de sumo de laranja natural com gelo?
+A comida hoje estava muito saborosa especialmente o puré de batata.
+Gostava de comer uma fruta fresca como sobremesa talvez uma maçã ou uma banana.
+Amanhã vou começar o dia a ler as notícias no jornal digital.
+Gosto de estar informado sobre os acontecimentos no país e no mundo inteiro.
+A música clássica ajuda-me a concentrar enquanto trabalho no relatório.
+Podes colocar a lista de reprodução com músicas calmas e relaxantes?
+O som ambiente está demasiado alto podes diminuir o volume das colunas?
+Muito obrigado pelo teu apoio carinho e dedicação de todos os dias.
+Tenham todos uma excelente tarde e um bom descanso esta noite.
+Até amanhã se Deus quiser e fiquem todos bem com muita saúde e paz.
+Eu quero ir ao cinema ver um filme de comédia no sábado à tarde.
+Comprar bilhetes na internet é mais rápido e prático do que esperar na fila.
+Gosto de comer pipocas doces enquanto vejo o filme no grande ecrã.
+O cinema tem lugares especiais reservados para pessoas com mobilidade reduzida.
+A rampa de acesso à sala de cinema é bastante larga e segura para a cadeira de rodas.
+A acessibilidade nos espaços públicos é essencial para garantir a igualdade de oportunidades.
+Os transportes públicos devem ter rampas funcionais e avisos sonoros e visuais.
+O autocarro da linha três passa na paragem daqui a quinze minutos.
+Será que podes consultar os horários atualizados na aplicação do telemóvel?
+A paragem de autocarro fica mesmo em frente ao centro de saúde da freguesia.
+Na biblioteca municipal encontrei vários livros interessantes sobre história e ciência.
+A leitura estimula a imaginação e ajuda a desenvolver o vocabulário e a memória.
+Todos os dias dedico pelo menos meia hora à leitura de um bom romance.
+A escrita criativa também é uma excelente forma de expressar sentimentos e emoções.
+Escrever com recurso a abreviaturas torna o processo muito mais ágil e menos cansativo.
+No sistema Eugénio cada palavra sugerida poupa dezenas de cliques ao longo do dia.
+A seleção preditiva combinada com abreviaturas inteligentes otimiza o desempenho global.
+Se eu escrever apenas as consoantes o sistema deve sugerir a palavra correta de imediato.
+Por exemplo se escrever cm o sistema pode sugerir comunicação ou como conforme o contexto.
+A desambiguação contextual é um dos desafios mais interessantes nos sistemas modernos.
+No entanto no nosso trabalho prático focamo-nos na abordagem direta de substituição determinística.
+Cada abreviatura corresponde univocamente a uma palavra do dicionário para evitar erros.
+Se duas palavras tiverem a mesma forma abreviada ocorre uma colisão que deve ser resolvida.
+Podemos resolver colisões dando prioridade à palavra com maior frequência de ocorrência no corpus.
+A frequência de ocorrência reflete a probabilidade de uma palavra ser necessária numa conversa.
+Palavras de alta frequência como artigos e preposições surgem repetidamente nos textos.
+No entanto abreviar preposições curtas traz pouca poupança percentual em comparação com palavras longas.
+A palavra comunicação tem onze letras e poupa muitos caracteres se for reduzida a três letras.
+Já a palavra de apenas tem duas letras e abreviar para d poupa apenas uma única letra.
+Além disso abreviar palavras curtas aumenta muito o risco de colisões no dicionário.
+Esta é uma reflexão crítica fundamental que devemos incluir na análise e discussão do relatório.
+Os professores valorizam a capacidade de justificar escolhas algorítmicas com base em dados concretos.
+Durante a apresentação oral devemos demonstrar segurança na explicação de cada script e comando.
+O comando awk permite processar campos e colunas com grande eficiência e flexibilidade.
+O comando sed é perfeito para efetuar substituições e remoção de padrões com expressões regulares.
+O comando tr substitui ou elimina caracteres individuais como espaços maiúsculas e pontuação.
+O utilitário sort ordena linhas alfabeticamente ou numericamente com a opção n.
+O comando uniq com a opção c conta o número de repetições consecutivas de cada linha.
+A combinação de sort e uniq é clássica em ambiente Unix para calcular frequências de palavras.
+O comando shuf ou split permite baralhar e dividir conjuntos de dados de forma aleatória.
+Para garantir a reprodutibilidade da divisão podemos fixar a semente aleatória com a opção random-source.
+Assim qualquer colega ou docente que execute o script obterá exatamente a mesma divisão de treino e teste.
+A reprodutibilidade científica é um princípio basilar no desenvolvimento de software e investigação.
+Todos os ficheiros gerados devem cumprir estritamente o formato de duas colunas com tabulação.
+A primeira coluna contém a abreviatura e a segunda coluna contém a palavra original por extenso.
+Os nomes dos ficheiros de saída devem ser rigorosamente abreviaturas_contracao.txt abreviaturas_truncagem.txt e abreviaturas_metodo3.txt.
+Seguir à risca as instruções do enunciado é determinante para obter uma boa classificação no projeto.
+Vamos agora preparar cada um dos scripts e testar exaustivamente com os dados do corpus.
+O processo de teste e validação garante que não existem falhas de sintaxe nem comportamentos imprevistos.
+O código deve ser limpo bem indentado e amplamente documentado com comentários elucidativos.
+Cada função ou bloco de comandos deve ter uma explicação clara do seu propósito e funcionamento.
+Desta forma o estudante estará totalmente preparado para responder a qualquer pergunta do júri na defesa.
+A defesa oral vale cinquenta por cento da nota final e representa a componente mais pesada da avaliação.
+Compreender a fundo a matéria de sistemas operativos dá-nos confiança para enfrentar qualquer questão técnica.
+Os conceitos de processos fluxos de entrada e saída redirecionamento e pipes são centrais nesta disciplina.
+A filosofia Unix assenta na composição de pequenas ferramentas especializadas ligadas por pipes.
+Cada ferramenta faz uma coisa bem feita e passa o resultado à ferramenta seguinte da cadeia de processamento.
+É exatamente esta filosofia que aplicamos na construção dos nossos scripts de geração de abreviaturas.
+O resultado final será um conjunto robusto de programas fáceis de manter reutilizar e demonstrar.
+Estou muito entusiasmado com a realização deste trabalho e com a oportunidade de aprender mais sobre Linux.
+A informática e a tecnologia ao serviço da inclusão social são áreas com enorme potencial de impacto positivo.
+Contribuir para a melhoria de sistemas como o Eugénio dá um sentido prático e humano à engenharia informática.
+Esperamos que este estudo de abreviaturas forneça pistas valiosas para a evolução da plataforma.
+Vamos dar início à implementação passo a passo com rigor entusiasmo e espírito de equipa.
+Tudo pronto para começar a escrever o primeiro script de divisão de dados de treino e teste.
